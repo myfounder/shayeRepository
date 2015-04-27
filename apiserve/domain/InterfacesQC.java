@@ -9,7 +9,7 @@ package com.founder.apiserve.domain;
 public class InterfacesQC {
 
 	private String code;// 接口code
-	private String name;// 接口名称-----为用到
+	private String name;// 接口名称-----目前没有用到
 	private String isRun;// 开关，0表示关，1表示开。默认是0
 	private String species;// 接口种类
 
